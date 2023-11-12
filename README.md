@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm W.M.K</h1>
-<h3>A full-time student who is full-stack web developer and part-time game developer</h3>
+<h1>Hi 👋, I'm Waseef, Founding CEO of W-15 Interactive</h1>
+<h3>I'm a university student, full-stack web developer and part-time game developer.</h3>
 
 - 🔭 I’m currently working on [Wedge Discord Bot](https://w15interactive.netlify.app/products/wedge)
 

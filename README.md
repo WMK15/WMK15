@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm W.M.K</h1>
-<h3 align="center">A full-time student who is full-stack web developer and part-time game developer</h3>
+<h1>Hi 👋, I'm W.M.K</h1>
+<h3>A full-time student who is full-stack web developer and part-time game developer</h3>
 
 - 🔭 I’m currently working on [Wedge Discord Bot](https://w15interactive.netlify.app/products/wedge)
 

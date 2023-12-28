@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wedge Discord Bot](https://w15interactive.netlify.app/products/wedge)
 
-- 🌱 I’m currently learning **Java and C#**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Java and C#**
 
 - 👨‍💻 All of my projects are available at [https://w15interactive.netlify.app](https://w15interactive.netlify.app)
 

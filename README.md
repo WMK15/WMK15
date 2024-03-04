@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Waseef, Founding CEO of W-15 Interactive</h1>
 <h3>I'm a university student, full-stack web developer and part-time game developer.</h3>
 
-- 🔭 I’m currently working on a game,**Land of Calgwin: Chapter 1**
+- 🔭 I’m currently working on a game, **Land of Calgwin: Chapter 1**
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Java and C#**
 

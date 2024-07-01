@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Java and C#**
 
-- 👨‍💻 All of my projects are available at [https://w15interactive.netlify.app](https://w15interactive.netlify.app)
+- 👨‍💻 All of my projects are available at [https://w15interactive.netli,com](https://w15interactive.com)
 
 - 📝 I regularly write articles on [https://w15interactive.home.blog](https://w15interactive.home.blog)
 
